@@ -149,27 +149,4 @@ Random Forest Regression Implementation.ipynb
 
 ---
 
-## ⭐ Future Improvements
-
-- Hyperparameter tuning with GridSearchCV
-- Cross Validation
-- Model deployment using Flask/FastAPI
-- Streamlit dashboard
-- Feature importance visualization
-- Model explainability using SHAP
-
----
-
-## 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ### ⭐ If you found this repository useful, consider giving it a star!
